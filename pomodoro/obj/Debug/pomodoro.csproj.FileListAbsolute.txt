@@ -1,0 +1,13 @@
+C:\Users\favilances\source\repos\pomodoro\pomodoro\bin\Debug\pomodoro.exe.config
+C:\Users\favilances\source\repos\pomodoro\pomodoro\bin\Debug\pomodoro.exe
+C:\Users\favilances\source\repos\pomodoro\pomodoro\bin\Debug\pomodoro.pdb
+C:\Users\favilances\source\repos\pomodoro\pomodoro\bin\Debug\Guna.UI2.dll
+C:\Users\favilances\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.csproj.AssemblyReference.cache
+C:\Users\favilances\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.Form1.resources
+C:\Users\favilances\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.Properties.Resources.resources
+C:\Users\favilances\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.csproj.GenerateResource.cache
+C:\Users\favilances\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.csproj.CoreCompileInputs.cache
+C:\Users\favilances\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.csproj.Up2Date
+C:\Users\favilances\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.exe
+C:\Users\favilances\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.pdb
+C:\Users\favilances\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.exe.config
